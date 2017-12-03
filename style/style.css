@@ -1,0 +1,8 @@
+.videolist {
+    max-height: 402px;
+    overflow-y: auto;
+    min-height: 150px;
+}
+.react-tabs__tab {
+    width: 25%;
+}
